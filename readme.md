@@ -1,3 +1,5 @@
+## Geografun
+Merupakan Sebuah Aplikasi Pembelajaran yang Berbasis Web untuk belajar tentang Geografi Dunia melalui serangkaian Fun Quiz
 
 
 **Software Yang Digunakan Pada Pekerjaan Ini :**
