@@ -19,8 +19,7 @@ Merupakan Sebuah Aplikasi Pembelajaran yang Berbasis Web untuk belajar tentang G
 - Waktu pengerjaan +-1 minggu
 ```
 
-## Swagger OpenAPI Docs
-
-[`^ kembali ke atas ^`](#table-of-contents)
+## Swagger Documentation
+Berikut ini merupakan dokumentasi project saya pada kali ini
 
 https://app.swaggerhub.com/apis/dawe_bangkit/QuisAPI/1.0
